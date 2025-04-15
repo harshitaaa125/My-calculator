@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(250, 218, 223);
+    margin: 0;
+}
+.calculator{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 80px rgb(255, 154, 171);
+}
